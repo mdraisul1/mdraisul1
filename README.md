@@ -2,7 +2,7 @@
 
 ## Hi there my gorgeous friend <img src="assets/Banner.jpg" width="28px" alt="hi">
 
-I'm Sumit, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh and Content Creator on [Youtube](https://youtube.com/learnwithsumit). I Spend most of time coding outstanding projects or recording tutorials.
+I'm Raisul, a WordPress Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh and Content Creator on [Youtube](https://youtube.com/). I Spend most of time coding outstanding projects or recording tutorials.
 
 :coffee: &emsp;Connect with me!
 
