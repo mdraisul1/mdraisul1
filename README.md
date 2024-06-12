@@ -95,14 +95,10 @@ I'm Raisul, a WordPress Developer from <img src="assets/bangladesh.png" width="1
 
 <br >
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why Learn with Sumit Youtube Channel exists!
-
-#### What is Learn with Sumit?
-
-"Learn with Sumit" is all about teaching web development skills and techniques in an efficient and practical manner. It has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer. I started "Learn with Sumit" in order to share my passion for web development and do what I truly love - teach and inspire new web developers.
+I love sharing knowledge and putting WordPress Theme, WordPress Plugins, HTML Template and posts together for helping other developers!
 
 #### Github Stats
 
-![learnwithsumit's github stats](https://github-readme-stats.vercel.app/api?username=learnwithsumit&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Raisul Islam github stats](https://github-readme-stats.vercel.app/api?username=raisul-islam01&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
