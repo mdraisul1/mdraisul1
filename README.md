@@ -1,4 +1,3 @@
-![Github Banner](assets/Banner.jpg)
 <div><img
         src="assets/Banner.jpg"
         style="width: 100%" /></div>
