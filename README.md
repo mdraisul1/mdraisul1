@@ -1,4 +1,7 @@
 ![Github Banner](assets/Banner.jpg)
+<div><img
+        src="![Github Banner](assets/Banner.jpg)"
+        style="width: 100%" /></div>
 
 ## Hi there my gorgeous friend <img src="assets/Banner.jpg" width="28px" alt="hi">
 
