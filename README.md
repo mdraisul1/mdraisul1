@@ -1,5 +1,5 @@
 <div><img
-        src="assets/Banner.jpg"
+        src="assets/git.png"
         style="width: 100%" /></div>
 
 ## Hi there my gorgeous friend <img src="assets/Banner.jpg" width="28px" alt="hi">
